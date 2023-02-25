@@ -39,7 +39,7 @@ jobs:
       - name: Deploy
         uses: s0/git-publish-subdir-action@develop
         env:
-          REPO: git@github.com:demo-kug/demo-kug.github.io.git
+          REPO: git@github.com:Suzhou-KUG/suzhou-kug.github.io.git
           SQUASH_HISTORY: "false"
           BRANCH: gh-pages
           FOLDER: public
