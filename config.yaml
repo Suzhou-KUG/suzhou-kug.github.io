@@ -1,6 +1,6 @@
-baseURL: https://gzkug.com/
+baseURL: https://suzhou-kug.github.io/
 languageCode: zh-CN
-title: Demo KUG
+title: Suzhou KUG
 theme: "PaperMod"
 enableRobotsTXT: true
 
@@ -14,19 +14,19 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Demo KUG
-  description: "Demo Kotlin 用户组"
+  title: Suzhou KUG
+  description: "Suzhou Kotlin 用户组"
   keywords:
     [
       Kotlin,
       Kotlin User Group,
-      Demo Kotlin User Group,
-      Demo Kotlin 用户组,
+      Suzhou Kotlin User Group,
+      苏州 Kotlin 用户组,
       KUG,
-      Demo KUG,
-      Demo KUG,
+      Suzhou KUG,
+      苏州 KUG,
     ]
-  author: gzkug
+  author: suzhou-kug
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -36,12 +36,12 @@ params:
     favicon: "kug-logo.png"
 
   label:
-    text: "Demo KUG"
+    text: "Suzhou KUG"
 
   profileMode:
     enabled: true
-    title: "Demo KUG"
-    subtitle: Hi, 这里是Demo KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们的组织
+    title: "Suzhou KUG"
+    subtitle: Hi, 这里是Suzhou KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们的组织
     imageUrl: "kug-logo.png"
     imageTitle: "KUG logo"
     imageWidth: 240
@@ -49,9 +49,9 @@ params:
 
   socialIcons:
     - name: GitHub
-      url: "https://github.com/gzkug"
+      url: "https://suzhou-kug.github.io"
     - name: Email
-      url: "mailto:linroid+gzkug@gmail.com"
+      url: "mailto:miller2017@qq.com"
 
   ShowReadingTime: false
   ShowShareButtons: true
@@ -95,10 +95,10 @@ params:
 
 menu:
   main:
-    - identifier: events
-      name: 历史活动
-      url: https://github.com/gzkug/events/issues
-      weight: 1
+#    - identifier: events
+#      name: 历史活动
+#      url: https://github.com/gzkug/events/issues
+#      weight: 1
     - identifier: official
       name: 全球 KUGs
       url: https://kotlinlang.org/community/user-groups/
