@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Suzhou KUG"
-    subtitle: Hi, 这里是Suzhou KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们的组织
+    subtitle: Hi there 👋, 这里是Suzhou KUG，欢迎所有对 Kotlin 感兴趣的开发者加入我们的组织
     imageUrl: "kug-logo.png"
     imageTitle: "KUG logo"
     imageWidth: 240
@@ -49,7 +49,7 @@ params:
 
   socialIcons:
     - name: GitHub
-      url: "https://suzhou-kug.github.io"
+      url: "https://github.com/Suzhou-KUG/suzhou-kug.github.io"
     - name: Email
       url: "mailto:miller2017@qq.com"
 
